@@ -1,0 +1,24 @@
+{
+  "name": "dumeez-redux-base",
+  "version": "1.0.0",
+  "description": "redux base package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dumeez/redux-base.git"
+  },
+  "keywords": [
+    "redux",
+    "dumeez",
+    "react"
+  ],
+  "author": "Vincent ELLAMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumeez/redux-base/issues"
+  },
+  "homepage": "https://github.com/dumeez/redux-base#readme"
+}
